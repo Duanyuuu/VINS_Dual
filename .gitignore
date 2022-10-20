@@ -1,0 +1,8 @@
+build/
+devel/
+logs/
+output/
+scripts/
+.catkin_tools/
+.vscode/
+.catkin_workspace
